@@ -141,6 +141,19 @@ body {
   background: rgba(0, 0, 0, 0.2);
   color: #42affa; }
 
+.reveal .slides {
+  text-align: left;
+  font-size: .8em;
+}
+.reveal .slides .center {
+  text-align: center;
+}
+.reveal .slides h2 {
+  text-align: center;
+}
+.reveal {
+  color: #ccc;
+}
 
 
 .chart {
@@ -234,4 +247,5 @@ body {
 
 @media print {
   .backgrounds {
-    background-color: #222; } }
+    background-color: #222; }
+}
