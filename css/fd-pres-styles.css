@@ -114,7 +114,7 @@ body {
 
 .reveal a {
   color: #42affa;
-  text-decoration: none;
+  text-decoration: underline;
   transition: color .15s ease; }
 
 .reveal a:hover {
