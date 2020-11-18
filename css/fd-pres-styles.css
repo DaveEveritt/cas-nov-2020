@@ -80,12 +80,14 @@ body {
 
 .reveal h1 {
   font-size: 2.5em; 
-  color: #BEEF9E; }
+  color: #BEEF9E; 
+  font-weight: normal; }
 
 .reveal h2 {
   font-size: 1.6em; 
   color: #BEEF9E;
-  text-transform: none; }
+  text-transform: none;
+  font-weight: normal; }
 
 .reveal h3 {
   font-size: 1.3em; 
